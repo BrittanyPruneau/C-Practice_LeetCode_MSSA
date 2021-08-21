@@ -1,0 +1,7 @@
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\BookWhilePractice\BookWhilePractice\bin\Debug\BookWhilePractice.exe.config
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\BookWhilePractice\BookWhilePractice\bin\Debug\BookWhilePractice.exe
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\BookWhilePractice\BookWhilePractice\bin\Debug\BookWhilePractice.pdb
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\BookWhilePractice\BookWhilePractice\obj\Debug\BookWhilePractice.csprojAssemblyReference.cache
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\BookWhilePractice\BookWhilePractice\obj\Debug\BookWhilePractice.csproj.CoreCompileInputs.cache
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\BookWhilePractice\BookWhilePractice\obj\Debug\BookWhilePractice.exe
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\BookWhilePractice\BookWhilePractice\obj\Debug\BookWhilePractice.pdb

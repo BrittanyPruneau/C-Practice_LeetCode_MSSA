@@ -1,0 +1,7 @@
+C:\Users\prune\source\repos\UDEMY_Class_Instantiation\UDEMY_Class_Instantiation\bin\Debug\UDEMY_Class_Instantiation.exe.config
+C:\Users\prune\source\repos\UDEMY_Class_Instantiation\UDEMY_Class_Instantiation\bin\Debug\UDEMY_Class_Instantiation.exe
+C:\Users\prune\source\repos\UDEMY_Class_Instantiation\UDEMY_Class_Instantiation\bin\Debug\UDEMY_Class_Instantiation.pdb
+C:\Users\prune\source\repos\UDEMY_Class_Instantiation\UDEMY_Class_Instantiation\obj\Debug\UDEMY_Class_Instantiation.csprojAssemblyReference.cache
+C:\Users\prune\source\repos\UDEMY_Class_Instantiation\UDEMY_Class_Instantiation\obj\Debug\UDEMY_Class_Instantiation.csproj.CoreCompileInputs.cache
+C:\Users\prune\source\repos\UDEMY_Class_Instantiation\UDEMY_Class_Instantiation\obj\Debug\UDEMY_Class_Instantiation.exe
+C:\Users\prune\source\repos\UDEMY_Class_Instantiation\UDEMY_Class_Instantiation\obj\Debug\UDEMY_Class_Instantiation.pdb

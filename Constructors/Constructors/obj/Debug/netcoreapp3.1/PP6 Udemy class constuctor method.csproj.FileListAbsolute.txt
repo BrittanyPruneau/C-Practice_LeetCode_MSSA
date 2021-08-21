@@ -1,0 +1,13 @@
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\PP6 Udemy class constuctor method\PP6 Udemy class constuctor method\bin\Debug\netcoreapp3.1\PP6 Udemy class constuctor method.exe
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\PP6 Udemy class constuctor method\PP6 Udemy class constuctor method\bin\Debug\netcoreapp3.1\PP6 Udemy class constuctor method.deps.json
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\PP6 Udemy class constuctor method\PP6 Udemy class constuctor method\bin\Debug\netcoreapp3.1\PP6 Udemy class constuctor method.runtimeconfig.json
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\PP6 Udemy class constuctor method\PP6 Udemy class constuctor method\bin\Debug\netcoreapp3.1\PP6 Udemy class constuctor method.runtimeconfig.dev.json
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\PP6 Udemy class constuctor method\PP6 Udemy class constuctor method\bin\Debug\netcoreapp3.1\PP6 Udemy class constuctor method.dll
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\PP6 Udemy class constuctor method\PP6 Udemy class constuctor method\bin\Debug\netcoreapp3.1\PP6 Udemy class constuctor method.pdb
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\PP6 Udemy class constuctor method\PP6 Udemy class constuctor method\obj\Debug\netcoreapp3.1\PP6 Udemy class constuctor method.csprojAssemblyReference.cache
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\PP6 Udemy class constuctor method\PP6 Udemy class constuctor method\obj\Debug\netcoreapp3.1\PP6 Udemy class constuctor method.AssemblyInfoInputs.cache
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\PP6 Udemy class constuctor method\PP6 Udemy class constuctor method\obj\Debug\netcoreapp3.1\PP6 Udemy class constuctor method.AssemblyInfo.cs
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\PP6 Udemy class constuctor method\PP6 Udemy class constuctor method\obj\Debug\netcoreapp3.1\PP6 Udemy class constuctor method.csproj.CoreCompileInputs.cache
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\PP6 Udemy class constuctor method\PP6 Udemy class constuctor method\obj\Debug\netcoreapp3.1\PP6 Udemy class constuctor method.dll
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\PP6 Udemy class constuctor method\PP6 Udemy class constuctor method\obj\Debug\netcoreapp3.1\PP6 Udemy class constuctor method.pdb
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\PP6 Udemy class constuctor method\PP6 Udemy class constuctor method\obj\Debug\netcoreapp3.1\PP6 Udemy class constuctor method.genruntimeconfig.cache
